@@ -1,0 +1,16 @@
+{
+    "name": "user/dummyjson",
+    "autoload": {
+        "psr-4": {
+            "User\\Dummyjson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Killian Vitug"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
